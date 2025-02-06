@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Aravind Konakalla  
 
-<!--
-**aravindk-123/aravindk-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with expertise in data analysis, data cleaning, and data processing and an aspiring Data Scientist.  
+Currently, I work in the **Data Ops team of Ola Krutrim**, where I contribute to improving  
+data quality, curation, and preprocessing for large-scale AI models.  
 
-Here are some ideas to get you started:
+🔹 **Skills:**  
+- Data Analysis & Visualization  
+- Data Cleaning & Preprocessing  
+- Python (Pandas, NumPy), SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about leveraging data to drive insights and improve AI models.  
+Feel free to check out my repositories! 🚀  
